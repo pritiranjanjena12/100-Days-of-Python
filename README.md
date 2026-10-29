@@ -26,8 +26,8 @@ My goal is to improve my Python programming skills through daily coding practice
 - [x] Day 06 — If, Elif, and Else Statements
 - [x] Day 07 — Nested If Statements
 - [x] Day 08 — String Indexing and Slicing
-- [ ] Day 09 — String Methods and User Profile Formatter
-- [ ] Day 10 — String Formatting and F-Strings
+- [x] Day 09 — String Methods and User Profile Formatter
+- [x] Day 10 — String Formatting and F-Strings
 
 ### Phase 2: Loops and Collections (Days 11–20)
 
