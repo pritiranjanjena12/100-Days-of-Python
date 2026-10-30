@@ -31,7 +31,7 @@ My goal is to improve my Python programming skills through daily coding practice
 
 ### Phase 2: Loops and Collections (Days 11–20)
 
-- [ ] Day 11 — While Loops
+- [x] Day 11 — While Loops
 - [ ] Day 12 — For Loops and Range
 - [ ] Day 13 — Break, Continue, and Pass
 - [ ] Day 14 — Nested Loops and Pattern Printing
